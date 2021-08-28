@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I considered creating a settings screen and I was unable to find out how to connect the items placed on the settings story board to code. Since this was an optional feature, I decided to stick with the requirements. I am new to iOS programming, and really excel with being in a course with help from instructors and peers.
+I considered creating a settings screen and I was unable to find out how to connect the items placed on the settings story board to code. Since this was an optional feature, I decided to stick with the requirements. I am new to iOS programming, and really excel with being in a course with help from instructors and peers. I look forward to all that I will learn in this course!
 
 ## License
 
